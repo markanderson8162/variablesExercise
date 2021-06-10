@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.exe
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\bin\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\variablesExercise\VariablesExercise\VariablesExercise\obj\Debug\netcoreapp3.1\VariablesExercise.genruntimeconfig.cache
